@@ -23,5 +23,6 @@
   <comments>This is a new, undeveloped module</comments>
   <civix>
     <namespace>CRM/Nostartendnotications</namespace>
+    <format>23.02.1</format>
   </civix>
 </extension>
